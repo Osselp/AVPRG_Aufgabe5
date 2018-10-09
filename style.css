@@ -1,0 +1,10 @@
+html, body {
+    height: 100%;
+    background: white;
+    text-align: center;
+    color: red;
+}
+h1{
+    user-select: none; 
+    font-size: 20%;
+}
